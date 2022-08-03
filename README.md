@@ -12,4 +12,4 @@ Tela de Pesquisas:
 
 
 Tela de Lista de Categorias:
-![alt text](https://github.com/simeialves/blogapp/blob/main/Imagens%20do%20Sistema/Categorias.png)
+![alt text](https://github.com/simeialves/blogapp/blob/main/Imagens%20do%20Sistema/Lista%20de%20Categorias.png)
