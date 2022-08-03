@@ -7,7 +7,9 @@
 * Handlebars
 
 Tela de Pesquisas:
-https://github.com/simeialves/blogapp/blob/main/Imagens%20do%20Sistema/Tela%20Inicial.png
+![alt text](https://github.com/simeialves/blogapp/blob/main/Imagens%20do%20Sistema/Tela%20Inicial.png)
+
+
 
 Tela de Lista de Categorias:
-https://github.com/simeialves/blogapp/blob/main/Imagens%20do%20Sistema/Lista%20de%20Categorias.png
+![alt text](https://github.com/simeialves/blogapp/blob/main/Imagens%20do%20Sistema/Categorias.png)
